@@ -5,7 +5,7 @@ Artificial Intelligence based name generator that generates unseen turkish names
 Model is an LSTM model. <br>
 
 Model Structure: <br>
-
+![model summary](https://raw.githubusercontent.com/yigitatesh/unseen_turkish_name_generator/main/model_structure.PNG)
 
 Embedding layer is used to extract information of letters. <br>
 Conv 1D layer is used to extract local structures of turkish names. <br>
